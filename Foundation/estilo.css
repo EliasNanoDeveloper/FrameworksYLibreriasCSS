@@ -1,0 +1,46 @@
+body{
+background-image: url(../img/fondo_1.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+}
+.titulo{
+	border-bottom: 1px solid red;
+	background-color: rgb(230, 176, 170,0.6);
+}
+	
+.logo-img{
+	max-height: 80px;
+}
+.boton{
+	background-color: white;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.blog-contenido{
+	background-color: rgb(230, 176, 170,0.6);
+}
+.column-izq{
+	border-right: 1px solid red;
+	margin-top: 5px;
+}
+.plat-img{
+	max-height: 80px;
+}
+.plats{
+	background-color: rgb(217, 136, 128,.8);
+}
+.plats_2{
+	background-color: rgb(100, 30, 22,.8);
+	margin-top: 5px;
+	margin-bottom: 10px; 
+}
+.plat_2-img{
+	max-width: 80%;
+}
+.vineta{
+	list-style: none;
+}

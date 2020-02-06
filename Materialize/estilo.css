@@ -1,0 +1,47 @@
+body{
+	background-color: #b3e5fc;
+}
+.encabezado{
+	min-height: 5rem;
+}
+.logo{
+	width: 90px;
+	margin-top: 0.5rem;
+	
+}
+.slogan{
+	color: white;
+}
+.structura{
+	border: 1px solid red;
+	height: 5rem;
+}
+.menu{
+	margin-top: 1rem;
+}
+.menu_label{
+	color: white;
+}
+.img_v{
+	width: 100%;
+}
+.gallery{
+	margin-top: 10px;
+}
+.oculto{
+	color: black !important;
+	
+}
+.parr{
+	font-size: 16px;
+}
+.noti{
+	max-width: 65%;
+}
+.avt{
+	max-width: 70%;
+}
+.inf{
+	margin-top: 20px;
+	font-size: 16px;
+}
